@@ -34,7 +34,7 @@ export default function RootLayout({
             >
                 <nav className="flex px-8 py-2 text-xl font-semibold gap-6">
                     <Link href="/">Home</Link>
-                    <Link href="/users">Users</Link>
+                    <Link href="/blockchain">Blockchain</Link>
                 </nav>
                 {children}
             </body>
